@@ -7,12 +7,13 @@ This repository contains an exploratory analysis of the relationship between urb
 The project integrates mobility and socioeconomic data to examine traffic delays, travel times, GDP per capita, population, and air pollution, identifying patterns and outliers that may be relevant to urban infrastructure and sustainable transport planning.
 
 ## 📂 Repository Contents
-
 The analysis can be viewed directly on GitHub or run in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wws8erbdlWriSjSDVlcmHqo7JnYUeBHG#scrollTo=7a3bdb8e)
 
 urban_mobility_economic_analysis.ipynb → Main notebook containing data cleaning, data integration, exploratory data analysis (EDA), visualisations, outlier analysis, and business insights.
+
+👉 [View the clean and complete dataset in table format within the repository.](datasets/ladb_mobility_economy_2024_clean.csv)
 
 ## 🧠 Analysis Objective
 
