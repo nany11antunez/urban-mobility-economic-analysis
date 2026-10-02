@@ -13,8 +13,6 @@ The analysis can be viewed directly on GitHub or run in Google Colab:
 
 urban_mobility_economic_analysis.ipynb → Main notebook containing data cleaning, data integration, exploratory data analysis (EDA), visualisations, outlier analysis, and business insights.
 
-👉 [View the clean and complete dataset in table format within the repository.](datasets/ladb_mobility_economy_2024_clean.csv)
-
 ## 🧠 Analysis Objective
 
 The objective of this analysis was to investigate the relationship between urban mobility and economic productivity across major cities worldwide.
