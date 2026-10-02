@@ -9,6 +9,8 @@ The project integrates mobility and socioeconomic data to examine traffic delays
 ## 📂 Repository Contents
 The analysis can be viewed directly on GitHub or run in Google Colab:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wws8erbdlWriSjSDVlcmHqo7JnYUeBHG?usp=sharing)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wws8erbdlWriSjSDVlcmHqo7JnYUeBHG#scrollTo=7a3bdb8e)
 
 urban_mobility_economic_analysis.ipynb → Main notebook containing data cleaning, data integration, exploratory data analysis (EDA), visualisations, outlier analysis, and business insights.
