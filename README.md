@@ -78,6 +78,12 @@ The analysis provides a basis for:
 - Identifying cities that warrant deeper analysis before potential infrastructure interventions are considered.
 - The analysis also highlights the value of a multi-year approach. Extending the dataset beyond 2024 could help distinguish persistent structural mobility patterns from temporary or year-specific effects.
 
+## Potential Business Decisions
+
+The findings could help urban planners and mobility authorities identify cities that may require further investigation into traffic congestion and transport infrastructure. For example, Bogotá and Lima showed high traffic delays alongside comparatively lower GDP per capita within the analysed sample. This could prompt decision-makers to investigate whether specific areas would benefit from improvements in public transport, traffic management or infrastructure.
+
+However, the analysis does not establish which intervention would be most effective. Additional data on transport networks, commuting patterns, and infrastructure costs would be needed before prioritising investments.
+
 ## 🛠️ Tools
 
 - Python
